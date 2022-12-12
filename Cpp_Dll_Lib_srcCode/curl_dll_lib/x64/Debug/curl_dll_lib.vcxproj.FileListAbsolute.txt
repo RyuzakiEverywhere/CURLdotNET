@@ -1,0 +1,1 @@
+C:\Users\Администратор\source\repos\curl_dll_lib\curl_dll_lib\x64\Debug\curl_dll_lib.vcxproj.CopyComplete
